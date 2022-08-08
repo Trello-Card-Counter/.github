@@ -1,3 +1,5 @@
+![Mozilla Add-on](https://img.shields.io/amo/v/trello-card-count) ![Mozilla Add-on](https://img.shields.io/amo/users/trello-card-count) ![Mozilla Add-on](https://img.shields.io/amo/dw/trello-card-count) ![Mozilla Add-on](https://img.shields.io/amo/rating/trello-card-count)
+
 ## Whats is Trello Card Counter?
 
 It is an elegant web browser extension for Trello that directly integrates into any Trello board to count the total number of cards in the board and individual columns. 
