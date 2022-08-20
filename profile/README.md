@@ -6,7 +6,7 @@ It is an elegant web browser extension for Trello that directly integrates into 
 
 ## Download
 
-[![](https://raw.githubusercontent.com/Trello-Card-Counter/Trello-Card-Counter-Mozilla-Extension/master/assets/get-the-addon-178x60px.dad84b42.png)](https://addons.mozilla.org/firefox/addon/trello-card-count/)
+[![](hhttps://raw.githubusercontent.com/Trello-Card-Counter/Trello-Card-Counter-Mozilla-Extension/master/assets/get_addon_firefox.png)](https://addons.mozilla.org/firefox/addon/trello-card-count/)
 
 ## Support
 
