@@ -1,4 +1,4 @@
-![Mozilla Add-on](https://img.shields.io/amo/v/trello-card-count) ![Mozilla Add-on](https://img.shields.io/amo/users/trello-card-count) ![Mozilla Add-on](https://img.shields.io/amo/dw/trello-card-count) ![Mozilla Add-on](https://img.shields.io/amo/rating/trello-card-count)
+![Mozilla Add-on](https://img.shields.io/amo/v/trello-card-count) ![Mozilla Add-on](https://img.shields.io/amo/users/trello-card-count) ![Mozilla Add-on](https://img.shields.io/amo/dw/trello-card-count) ![Mozilla Add-on](https://img.shields.io/amo/rating/trello-card-count) ![Mozilla Add-on Countries](https://img.shields.io/badge/Countries-51-red)
 
 ## Whats is [Trello Card Counter](http://trellocardcounter.jaamour.com/)?
 
